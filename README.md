@@ -1,2 +1,1 @@
 # awesome-jdbc
-pu

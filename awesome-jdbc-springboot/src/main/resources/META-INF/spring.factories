@@ -1,3 +1,5 @@
 # Auto Configure
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.mzlxl.jdbc.AwesomeJdbcAutoConfiguration
+com.mzlxl.jdbc.context.ApplicationContextHolder\
+,com.mzlxl.jdbc.config.es.EsJdbcProperties\
+,com.mzlxl.jdbc.config.es.EsJdbcAutoConfiguration
