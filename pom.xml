@@ -11,7 +11,7 @@
     <modules>
         <module>awesome-jdbc-common</module>
         <module>awesome-jdbc-core</module>
-        <module>awesome-jdbc-springboot</module>
+        <module>awesome-jdbc-boot-starter</module>
     </modules>
 
     <properties>
